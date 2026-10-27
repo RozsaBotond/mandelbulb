@@ -14,7 +14,7 @@ The visuals are done via ray marching, which is a technique to render implicit s
 
 ## Video of running it
 
-[![Mandelbulb](media/mandelbulb_screenshot.png)](media/mandelbulb_demo.mp4)
+https://github.com/user-attachments/assets/e53dd7e2-bd65-4791-84ac-9f532cae4853
 
 - [Demo video](media/mandelbulb_demo.mp4)
 - [Screenshot](media/mandelbulb_screenshot.png)
