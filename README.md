@@ -14,7 +14,10 @@ The visuals are done via ray marching, which is a technique to render implicit s
 
 ** Video of running it
 
-<!-- [![Mandelbulb]()](video.mp4) -->
+[![Mandelbulb](media/mandelbulb_screenshot.png)](media/mandelbulb_demo.mp4)
+
+- [Demo video](media/mandelbulb_demo.mp4)
+- [Screenshot](media/mandelbulb_screenshot.png)
 
 ** Building
 with cmake and make, you can build the project by running the following commands:
